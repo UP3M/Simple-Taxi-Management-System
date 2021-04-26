@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/oka/CLionProjects/PSS_HW_4/Admin.h
+MainGateway.h
+C:/Users/oka/CLionProjects/PSS_HW_4/MainGateway.h
+
+C:/Users/oka/CLionProjects/PSS_HW_4/DriverGateway.cpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+DriverGateway.h
+C:/Users/oka/CLionProjects/PSS_HW_4/DriverGateway.h
+Admin.h
+C:/Users/oka/CLionProjects/PSS_HW_4/Admin.h
+
+C:/Users/oka/CLionProjects/PSS_HW_4/DriverGateway.h
+string
+-
+MainGateway.h
+C:/Users/oka/CLionProjects/PSS_HW_4/MainGateway.h
+
+C:/Users/oka/CLionProjects/PSS_HW_4/MainGateway.h
+string
+-
+MainGateway.h
+C:/Users/oka/CLionProjects/PSS_HW_4/MainGateway.h
+

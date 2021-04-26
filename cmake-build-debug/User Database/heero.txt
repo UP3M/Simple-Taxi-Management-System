@@ -1,0 +1,6 @@
+
+None
+heero
+rusia
+Card
+From: rusia=> To: filp, Car model: bmw Class: Economy Driver: yuno, Cost: 200 Rub, Paid Card

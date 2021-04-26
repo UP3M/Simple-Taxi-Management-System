@@ -1,0 +1,6 @@
+
+None
+oka
+inno
+Cash
+From: inno=> To: kazan, Car model: ford Class: Economy Driver: asta, Cost: 200 Rub, Paid Cash
